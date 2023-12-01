@@ -69,7 +69,7 @@ Feel free to contribute to this script by following these steps:
 - Create a pull request
 
 ## License
-All Rights Reserved
+Every One Can Use
 
 ---
 
